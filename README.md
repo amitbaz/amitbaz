@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Amit 👋
 
-<!--
-**amitbaz/amitbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer · Frontend-leaning Full Stack · AI Engineering
 
-Here are some ideas to get you started:
+I build production-grade web applications with React, Next.js and TypeScript, with a growing focus on backend systems, AI-powered products and agentic workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+🎙️ Interviewer - AI-powered adaptive interview coaching
+🤖 Job Hunter Bot - automated job discovery and intelligent candidate/job matching
+🧩 AI Marketplace - reusable AI engineering plugins and workflows
+
+Core: React · Next.js · TypeScript · Node.js · Python · GraphQL · Supabase · AI Agents
